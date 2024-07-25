@@ -49,7 +49,7 @@ elif calcu == "/":
        print(num1 / num2)
     else:
      print("\tCannot divide by zero!")
-     
+
 else:
     print("\nInvalid!")
 
